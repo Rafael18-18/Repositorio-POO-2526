@@ -31,7 +31,12 @@ def mostrar_menu():
     ruta_base = os.path.dirname(__file__)
 
     unidades = {
-        '1': 'Repositorio-POO-2526'
+        '1': 'semana 2',
+        '2': 'semana 3',
+        '3': 'semana 4',
+        '4': 'semana 5',
+        '5': 'semana 6',
+        '6': 'semana 7'
     }
 
     while True:
